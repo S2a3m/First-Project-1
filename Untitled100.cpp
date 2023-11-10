@@ -11,6 +11,7 @@ void func()
 			{
 				num=n;
 				cout<<"The number you've entered the number is the:  "<<num;
+				cout<<"The another number is:"<<endl;
 			}
 	};
 		Local obj;
