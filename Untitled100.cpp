@@ -10,7 +10,7 @@ void func()
 			void getdata(int n)
 			{
 				num=n;
-				cout<<"The number you've entered the number is  "<<num;
+				cout<<"The number you've entered the number is:  "<<num;
 			}
 	};
 		Local obj;
