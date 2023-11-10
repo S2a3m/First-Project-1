@@ -10,15 +10,15 @@ void func()
 			void getdata(int n)
 			{
 				num=n;
-				cout<<"The number is "<<num;
+				cout<<"The number you've entered is the "<<num;
 			}
 	};
 		Local obj;
-		obj.getdata(7);
+		obj.getdata(20);
 }
 int main()
 {
-	cout<<"Demonstratiom of a Local class"<<endl;
+	cout<<"Demonstration of the Local class is"<<endl;
 	func();
 	return 0;
 }
