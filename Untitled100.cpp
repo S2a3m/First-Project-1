@@ -10,11 +10,11 @@ void func()
 			void getdata(int n)
 			{
 				num=n;
-				cout<<"The number you've entered is the "<<num;
+				cout<<"The number you've entered the number is  "<<num;
 			}
 	};
 		Local obj;
-		obj.getdata(20);
+		obj.getdata(50);
 }
 int main()
 {
