@@ -2,7 +2,7 @@
 using namespace std;
 void display(const int num)
 {
-   cout<<"The number you've entered  is:"<<num<<endl;
+   cout<<"The number   is:"<<num<<endl;
 }
 int main()
 {
